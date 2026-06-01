@@ -1,0 +1,13 @@
+*, *::after, *::before { box-sizing: border-box; }
+
+body {
+    font-family: system-ui, sans-serif;
+    background-color: bisque;
+}
+
+header {
+    background-color: pink;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
